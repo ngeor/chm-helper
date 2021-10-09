@@ -1,5 +1,4 @@
-chm-helper
-==========
+# chm-helper
 
 Helper for chm files
 
